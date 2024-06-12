@@ -102,7 +102,7 @@ plt.ylabel('Frequency')
 # Show plot
 plt.show()
 ```
-## Scatter Plot
+## Example 4 :Scatter Plot
 ```python
 import matplotlib.pyplot as plt
 
@@ -121,7 +121,7 @@ plt.ylabel('Y-axis')
 # Show plot
 plt.show()
 ```
-## Pie chart
+## Example 5 : Pie chart
 ```python
 import matplotlib.pyplot as plt
 
